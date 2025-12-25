@@ -44,16 +44,12 @@ Saya sedang belajar dan mengembangkan berbagai project teknologi di bawah nama *
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haruka113&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruka113&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📬 Kontak & Sosial
 - 💼 Neo Project
-- 📧 Email: neoproject@gmail.com
+- 📧 Email: hamkakafka061@gmail.com
 - 🌐 Website: coming soon
 - 🧠 Always learning
 
