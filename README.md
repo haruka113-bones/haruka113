@@ -52,7 +52,7 @@ Saya sedang belajar dan mengembangkan berbagai project teknologi di bawah nama *
 - 📧 Email: hamkakafka061@gmail.com
 - 🌐 Website: coming soon
 - 🧠 Always learning
-- -instagram: @khaf_113
+- 📬instagram: https://instagram.com/khaf_113
 
 ---
 
