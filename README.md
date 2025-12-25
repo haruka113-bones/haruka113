@@ -1,1 +1,64 @@
-# haruka113
+# 👋 Hi, I'm Kafka
+### Founder of Neo Project 🚀
+
+Selamat datang di profil GitHub saya.  
+Saya sedang belajar dan mengembangkan berbagai project teknologi di bawah nama **Neo Project**.
+
+---
+
+## 🧠 Tentang Neo Project
+**Neo Project** adalah inisiatif kecil yang berfokus pada:
+- Eksperimen teknologi
+- Project open-source
+- Pembelajaran software & AI
+- Membangun solusi sederhana namun berguna
+
+> Small project, big vision.
+
+---
+
+## 🔧 Tech Stack
+- 🐍 Python
+- 🤖 Machine Learning (Beginner)
+- 👁️ Computer Vision
+- 🌐 Web Development
+- ⚙️ Automation Tools
+- 🧠 Problem Solving
+
+---
+
+## 📂 Project Unggulan
+🔹 Gesture to Speech (AI)  
+🔹 Automation Tools  
+🔹 Experimental Python Projects  
+
+➡️ Lihat repository untuk detail lengkap.
+
+---
+
+## 🎯 Tujuan
+- Konsisten membangun project
+- Membuat dokumentasi yang rapi
+- Berkembang sebagai developer profesional
+- Membesarkan **Neo Project** secara bertahap
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haruka113&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruka113&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Kontak & Sosial
+- 💼 Neo Project
+- 📧 Email: neoproject@gmail.com
+- 🌐 Website: coming soon
+- 🧠 Always learning
+
+---
+
+⭐ Jangan lupa follow & star repo jika tertarik  
+🔥 Neo Project – Building step by step
+
